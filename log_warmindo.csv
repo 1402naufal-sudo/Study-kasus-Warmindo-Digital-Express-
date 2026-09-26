@@ -1,0 +1,7 @@
+ID_Pesanan,Waktu_Pesanan,Nama_Pelanggan,Nama_Mie,Jenis_Mie,Level_Pedas,Daftar_Topping,Biaya_Mie,Biaya_Topping,Total_Biaya
+WMD-001,2026-09-26 10:15:00,Budi Santoso,Indomie Goreng Original,Goreng,3,"Telur Ceplok (Setengah Matang);Kornet Sapi Tumis;Keju Cheddar Parut Melimpah",8000,11500,19500
+WMD-002,2026-09-26 10:30:00,Siti Rahma,Indomie Kuah Kari Ayam Spesial,Kuah,1,"Telur Ceplok (Setengah Matang);Sosis Bakar / Goreng",8500,7000,15500
+WMD-003,2026-09-26 10:45:00,Andi Wijaya,Indomie Goreng Aceh Pedas Mantap,Goreng,5,"Telur Ceplok (Setengah Matang);Kornet Sapi Tumis",9000,8000,17000
+WMD-1220-622,2026-09-26 12:26:26,Pelanggan 1,Indomie Goreng Original,Goreng,1,"",8000,0,8000
+WMD-1226-904,2026-09-26 12:29:25,Pelanggan 1,Mie Nyemek Warmindo Spesial,Kuah Nyemek,5,"Telur Ceplok (Setengah Matang);Telur Dadar Gurih;Kornet Sapi Tumis;Sosis Bakar / Goreng;Keju Cheddar Parut Melimpah;Bakso Sapi Kuah (3 pcs);Pangsit Goreng Renyah;Sambal Matah Spesial;Sayur Sawi & Kol Segar",10000,29500,39500
+WMD-1248-388,2026-09-26 12:48:58,Pelanggan 1,Mie Nyemek Warmindo Spesial,Kuah Nyemek,5,"Telur Ceplok (Setengah Matang);Telur Dadar Gurih;Kornet Sapi Tumis;Sosis Bakar / Goreng;Keju Cheddar Parut Melimpah;Bakso Sapi Kuah (3 pcs);Pangsit Goreng Renyah;Sambal Matah Spesial;Sayur Sawi & Kol Segar",10000,29500,39500
